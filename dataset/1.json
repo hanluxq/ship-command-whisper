@@ -1,0 +1,30 @@
+[
+    {
+        "audio": {
+            "path": "dataset/1/6_1.wav"
+        },
+        "sentence": "放大海图到一比两万",
+        "duration": 4.23
+    },
+    {
+        "audio": {
+            "path": "dataset/1/6_2.wav"
+        },
+        "sentence": "放大海图到一比一万",
+        "duration": 3.91
+    },
+    {
+        "audio": {
+            "path": "dataset/1/6_3.wav"
+        },
+        "sentence": "放大海图到一比三万",
+        "duration": 3.72
+    },
+    {
+        "audio": {
+            "path": "dataset/1/7.wav"
+        },
+        "sentence": "打开海图航行航迹",
+        "duration": 2.55
+    }
+]

@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+Whisper-Finetune/models/
+Whisper-Finetune/output/
+Whisper-Finetune/dataset/
+whisper-small-finetune/
+whisper-medium-finetune/
+*.bin
+venv/

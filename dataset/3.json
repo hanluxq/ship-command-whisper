@@ -1,0 +1,163 @@
+[
+    {
+        "audio": {
+            "path": "dataset/3/16.wav"
+        },
+        "sentence": "当前航泊航行状态",
+        "duration": 2.77
+    },
+    {
+        "audio": {
+            "path": "dataset/3/17.wav"
+        },
+        "sentence": "当前船速",
+        "duration": 1.92
+    },
+    {
+        "audio": {
+            "path": "dataset/3/18.wav"
+        },
+        "sentence": "当前航向",
+        "duration": 2.14
+    },
+    {
+        "audio": {
+            "path": "dataset/3/19.wav"
+        },
+        "sentence": "当前天气情况",
+        "duration": 2.72
+    },
+    {
+        "audio": {
+            "path": "dataset/3/20_1.wav"
+        },
+        "sentence": "当前风速",
+        "duration": 1.87
+    },
+    {
+        "audio": {
+            "path": "dataset/3/20_2.wav"
+        },
+        "sentence": "当前风向",
+        "duration": 2.04
+    },
+    {
+        "audio": {
+            "path": "dataset/3/21.wav"
+        },
+        "sentence": "当前经纬度信息",
+        "duration": 2.48
+    },
+    {
+        "audio": {
+            "path": "dataset/3/22.wav"
+        },
+        "sentence": "推进系统运行状态",
+        "duration": 3.28
+    },
+    {
+        "audio": {
+            "path": "dataset/3/23.wav"
+        },
+        "sentence": "电力系统运行状态",
+        "duration": 2.99
+    },
+    {
+        "audio": {
+            "path": "dataset/3/24.wav"
+        },
+        "sentence": "前方四十海里的目标数量",
+        "duration": 3.72
+    },
+    {
+        "audio": {
+            "path": "dataset/3/25.wav"
+        },
+        "sentence": "当前区域标准时间",
+        "duration": 2.94
+    },
+    {
+        "audio": {
+            "path": "dataset/3/26.wav"
+        },
+        "sentence": "北京时间",
+        "duration": 2.02
+    },
+    {
+        "audio": {
+            "path": "dataset/3/27.wav"
+        },
+        "sentence": "当前水域水深",
+        "duration": 2.57
+    },
+    {
+        "audio": {
+            "path": "dataset/3/6_1.wav"
+        },
+        "sentence": "放大海图到一比一万",
+        "duration": 3.68
+    },
+    {
+        "audio": {
+            "path": "dataset/3/6_2.wav"
+        },
+        "sentence": "放大海图到一比两万",
+        "duration": 2.86
+    },
+    {
+        "audio": {
+            "path": "dataset/3/6_3.wav"
+        },
+        "sentence": "放大海图到一比三万",
+        "duration": 2.99
+    },
+    {
+        "audio": {
+            "path": "dataset/3/6_4.wav"
+        },
+        "sentence": "缩小海图到一比一万",
+        "duration": 3.17
+    },
+    {
+        "audio": {
+            "path": "dataset/3/6_5.wav"
+        },
+        "sentence": "缩小海图到一比两万",
+        "duration": 3.32
+    },
+    {
+        "audio": {
+            "path": "dataset/3/6_6.wav"
+        },
+        "sentence": "缩小海图到一比三万",
+        "duration": 3.32
+    },
+    {
+        "audio": {
+            "path": "dataset/3/7.wav"
+        },
+        "sentence": "打开海图航行航迹",
+        "duration": 3.07
+    },
+    {
+        "audio": {
+            "path": "dataset/3/8_1.wav"
+        },
+        "sentence": "切换白天时间模式",
+        "duration": 3.54
+    },
+    {
+        "audio": {
+            "path": "dataset/3/8_2.wav"
+        },
+        "sentence": "切换黄昏时间模式",
+        "duration": 2.96
+    },
+    {
+        "audio": {
+            "path": "dataset/3/8_3.wav"
+        },
+        "sentence": "切换夜晚时间模式",
+        "duration": 2.55
+    }
+]
